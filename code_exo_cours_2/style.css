@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.panneaux{
+    display:flex;
+    height: 100vh;
+}
+
+.panneau1 {
+    background-image: url("paysage1.jpg");
+    background-repeat: no-repeat;
+    background-position-x:center;
+    background-size: cover;
+    min-height: 100%;
+    width: 20%;
+}
+.panneau2 {
+    background-image: url("paysage2.jpg");
+    background-repeat: no-repeat;
+    background-position-x:center;
+    background-size: cover;
+    width: 20%;
+}
+.panneau3 {
+    background-image: url("paysage3.jpg");
+    background-repeat: no-repeat;
+    background-position-x:center;
+    background-size: cover;
+    width: 20%;
+}
+.panneau4 {
+    background-image: url("paysage4.jpg");
+    background-repeat: no-repeat;
+    background-position-x:center;
+    background-size: cover;
+    width: 20%;
+}
+.panneau5 {
+    background-image: url("paysage5.jpg");
+    background-repeat: no-repeat;
+    background-position-x:center;
+    background-size: cover;
+    width: 20%;
+}
